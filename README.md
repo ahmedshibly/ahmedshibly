@@ -12,7 +12,7 @@
 <ul>
 <li>📙 System developer at <a href="https://www.softwarepeople.biz/"><strong>SoftwarePeople</strong></a>.</li> 
 <li>🔭 <strong>CSharp</strong> guy with newly created love for <strong>React</strong> </li>
-<li>🧐 Learning about <strong>serverless architecture </strong> and <strong>ML.NET</strong>.</li>>
+<li>🧐 Learning about <strong>serverless architecture </strong> and <strong>ML.NET</strong></li>
 <li>📙 Check out my <a href="https://ahmedshibly.github.io/resume/">resume</a>.</li>
 </ul>
 
