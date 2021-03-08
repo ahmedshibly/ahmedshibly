@@ -2,21 +2,18 @@
 ## I'm NAYEM AHMED SHIBLY
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nayem-ahmed-shibly/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siblee77@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:siblee77@outlook.com)
 
 &nbsp;
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://slim.netlify.app">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📙 System developer at <a href="https://www.softwarepeople.biz/"><strong>SoftwarePeople</strong></a>.</li> 
+<li>🔭 <strong>CSharp</strong> guy with newly created love for <strong>React</strong> </li>
+<li>🧐 Learning about <strong>serverless architecture </strong> and <strong>ML.NET</strong>.</li>>
 <li>📙 Check out my <a href="https://ahmedshibly.github.io/resume/">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
