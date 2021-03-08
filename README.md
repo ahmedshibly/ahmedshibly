@@ -16,6 +16,8 @@
 <li>📙 Check out my <a href="https://ahmedshibly.github.io/resume/">resume</a>.</li>
 </ul>
 
+&nbsp;
+
 <h2>🚀 I am devoted to</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
