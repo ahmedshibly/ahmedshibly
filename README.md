@@ -13,8 +13,8 @@
 <li>🔭 <strong>CSharp</strong> guy with newly created love for <strong>React</strong> </li>
 <li>🧐 Learning about <strong>serverless architecture </strong> and <strong>ML.NET</strong></li>
 <li>💖 Got a passion for graphic programming</li>
-<li>👽 Enthusiastic about space and ancient civilizations</li> 
-<li>📙 Check out my <a href="https://ahmedshibly.github.io/resume/">resume</a>.</li>
+<li>👽 Enthusiastic about <strong>space</strong> and ancient civilizations</li>
+<li>📚 Interested in <strong>reading</strong> new stuffs</li>  
 </ul>
 
 &nbsp;
@@ -38,8 +38,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="30" height="30" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;
