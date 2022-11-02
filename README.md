@@ -8,7 +8,14 @@
 
 &nbsp;
 
-<h2>⚡️ A Few Quick Facts</h2>
+
+<h2> 
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="24" height="24">
+  </picture>
+  A Few Quick Facts
+</h2>
 <ul>
 <li>🔭 <strong>CSharp</strong> guy with newly created love for <strong>React</strong> </li>
 <li>🧐 Learning about <strong>serverless architecture </strong> and <strong>ML.NET</strong></li>
@@ -19,7 +26,13 @@
 
 &nbsp;
 
-<h2>🚀 I am devoted to</h2>
+<h2>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="18" height="18">
+  </picture>
+   I am devoted to
+</h2>
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET" width="30" height="30" />
 &nbsp;&nbsp;&nbsp;
