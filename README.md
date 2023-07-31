@@ -20,7 +20,11 @@
 <li>🔭 <strong>CSharp</strong> guy with newly created love for <strong>React</strong> </li>
 <li>🧐 Learning about <strong>serverless architecture </strong> and <strong>ML.NET</strong></li>
 <li>💖 Got a passion for graphic programming</li>
-<li>👽 Enthusiastic about <strong>space</strong> and ancient civilizations</li>
+  
+<li><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="👽" width="18" height="18">
+</picture> Enthusiastic about <strong>space</strong> and ancient civilizations</li>
 <li>📚 Interested in <strong>reading</strong> new stuffs</li>  
 </ul>
 
